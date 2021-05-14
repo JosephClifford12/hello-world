@@ -1,6 +1,8 @@
 # hello-world
 
 
-first repository
+First Repository
 
-I am Joseph and this and I like java.
+I am Joseph.
+
+I like Java.
